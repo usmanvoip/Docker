@@ -21,3 +21,6 @@
 ### image snapshot in contianer
 <img width="341" alt="Screenshot_4" src="https://user-images.githubusercontent.com/78042886/115373369-3f820380-a1e5-11eb-9790-303a1a80b53a.png">
 
+### Docker Volumes
+
+<img width="700" alt="Screenshot_12" src="https://user-images.githubusercontent.com/78042886/115525537-9f8dae00-a2a8-11eb-9775-57f76793c3d7.png">
